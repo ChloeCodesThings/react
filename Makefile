@@ -2,8 +2,8 @@
 # Following variable must be passed in
 #  SENTRY_AUTH_TOKEN
 
-SENTRY_ORG=testorg-az
-SENTRY_PROJECT=sentry-demos-react-2t
+SENTRY_ORG=chloerulez
+SENTRY_PROJECT=react-demo
 VERSION=`sentry-cli releases propose-version`
 PREFIX=static/js
 

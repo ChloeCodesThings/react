@@ -9,7 +9,7 @@ class App extends Component {
             <div className="App">
                 <div className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
-                    <h1>Sentry.io -  Sample Error Page</h1>
+                    <h1>Testing out Errors with Chloe 📊</h1>
                 </div>
                 <p className="App-intro">
                 </p>
